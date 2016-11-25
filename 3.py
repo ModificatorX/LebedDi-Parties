@@ -11,7 +11,7 @@ while j<7:
 	elif j==1:
 		file.write("<h1 align='center'>Tuesday</h1>")
 	elif j==2:
-		file.write("<h1 align='center'>Wednsday</h1>")
+		file.write("<h1 align='center'>Wednesday</h1>")
 	elif j==3:
 		file.write("<h1 align='center'>Thursday</h1>")
 	elif j==4:
